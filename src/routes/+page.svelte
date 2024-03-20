@@ -8,12 +8,12 @@
 </script>
 
 <svelte:head>
-  <title>Md Blogs</title>
+  <title>BlogOps</title>
   <meta
     name="description"
     content="Full-stack dev passionate about web dev, neovim, dev workflows, mechanical keyboards and sharing what I know."
   />
-  <meta property="og:title" content="Md Blogs" />
+  <meta property="og:title" content="BlogOps" />
   <meta property="og:type" content="website" />
   <meta
     property="og:image"
