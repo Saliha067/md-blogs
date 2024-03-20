@@ -33,3 +33,21 @@
     </CopyCodeInjector>
   </div>
 </article>
+
+<div class="px-4 py-4">
+  <Giscus
+    id="comments"
+    repo="Saliha067/md-blogs"
+    repoId="R_kgDOLi_CyQ"
+    category="General"
+    categoryId="DIC_kwDOLi_Cyc4CeGh4"
+    mapping="specific"
+    term={$page.url.pathname}
+    reactionsEnabled="1"
+    emitMetadata="0"
+    inputPosition="bottom"
+    theme="dark_tritanopia"
+    lang="en"
+    loading="lazy"
+  />
+</div>
