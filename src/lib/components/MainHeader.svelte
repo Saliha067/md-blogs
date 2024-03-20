@@ -26,7 +26,7 @@
       >
         <YoutubeIcon class="h-8 w-8 fill-current" />
       </IconLink> -->
-      <IconLink href="https://github.com/Saliha067" target="_blank">
+      <IconLink href="https://github.com/Saliha067/md-blogs" target="_blank">
         <GithubIcon class="h-8 w-8 fill-current" />
       </IconLink>
     </div>
