@@ -1,6 +1,6 @@
 ## Running this locally
 
-Clone the repo first and navigate to the dev-blog directory.
+Clone the repo first and navigate to the directory.
 
 Make sure you nave node (tested with v18.17.1) and npm (tested with 10.0.0) installed.
 
